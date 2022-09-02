@@ -1,0 +1,13 @@
+Lives of Brick from top left to bottom right [0][0] -> [3][7]
+Position of ball [x]
+Position of ball [y]
+Velocity of ball [x]
+Velocity of ball [y]
+Size of ball
+Position of bar [x]
+Width of bar
+If a power-up is active (0: false, 1: true)
+Position of Power-Up [x]
+Position of Power-Up [y]
+Time Left of Power-Up
+Type of Power-Up (1: IcebreakerUp, 2: SizeUp, 3: LengthenUp)
